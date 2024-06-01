@@ -7,7 +7,7 @@
   
 ### 🧐 More About Me:
 - 🤝 &nbsp; B.Tech in CSE at Indian Institute of Information Technology, Surat;
-- 🚀 &nbsp; I’m currently working on **Online-Auction-System**;
+- 🚀 &nbsp; I’m currently working on **RealTime-Chat-App**;
 - 🌱 &nbsp; I’m currently doing Competitive Programming; 
 - 💻 &nbsp; React and React Native Developer;
 - 🔭 &nbsp; Looking to collaborate on building Full Stack applications;
