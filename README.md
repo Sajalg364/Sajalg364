@@ -11,7 +11,7 @@
 - 🌱 &nbsp; I’m currently doing Competitive Programming; 
 - 💻 &nbsp; React and React Native Developer;
 - 🔭 &nbsp; Looking to collaborate on building Full Stack applications;
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1S5_153hFeIwgT6IUKfGX_oUFcX0UmIhR/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1y-2VobUDkt-Asv145BOeP9q7eOwIAsan/view?usp=drive_link?usp=sharing)
 - 📫 &nbsp; Reach me: <a href="mailto:sajalmahajan364@gmail.com">sajalmahajan364@gmail.com</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/sajal-mahajan-a58b9524a/" target="_blank"><b>LinkedIn</b> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Sajal's-LinkedIn" height="20"></a>
 
 <br>
